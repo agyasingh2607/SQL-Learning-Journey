@@ -2,17 +2,12 @@
 
 Course exercises and notes for Basics Part 2.
 
-# Basics Part 2
-
-Course exercises and notes for Basics Part 2.
-
 # SQL Basics - Part 2 🚀
 
 This section builds upon the SQL fundamentals by introducing data filtering, table copying, data deletion, and backup restoration concepts.
 
 ## 📚 Topics Covered
 
-* ✅ Restoring a Database Backup
 * ✅ TOP Clause
 * ✅ WHERE Clause
 * ✅ Comparison Operators (`=`, `<>`, `<`, `>`)
@@ -29,10 +24,6 @@ This section builds upon the SQL fundamentals by introducing data filtering, tab
 
 ## 🛠 Concepts Practiced
 
-### Database Restoration
-
-* Restoring an existing database from a backup.
-* Working with the AdventureWorks sample database.
 
 ### Data Retrieval
 
