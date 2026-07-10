@@ -2,9 +2,9 @@
 
 Course exercises and notes for Basics Part 3.
 
-# SQL Intermediate - Part 1 🚀
+# SQL Basics - Part 3 🚀
 
-This section introduces intermediate SQL concepts focused on sorting, filtering unique data, aggregate functions, grouping records, and filtering grouped results.
+This section introduces SQL Fundamentals concepts focused on sorting, filtering unique data, aggregate functions, grouping records, and filtering grouped results.
 
 ## 📚 Topics Covered
 
