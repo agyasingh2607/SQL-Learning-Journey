@@ -1,7 +1,3 @@
-# Intermediate Part 1
-
-Course exercises and notes for Intermediate Part 1.
-
 # SQL Intermediate - Part 1 🚀
 
 This section focuses on SQL Server built-in functions that help clean, transform, format, and manipulate data. It also covers conditional logic, date functions, and string aggregation techniques commonly used in real-world SQL development.
