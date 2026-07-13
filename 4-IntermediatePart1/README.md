@@ -100,14 +100,14 @@ After completing this section, you will be able to:
 * Write cleaner, more maintainable, and production-ready SQL queries.
 
  ## 📌 Quick Revision (One Minute)
-ISNULL() → Replace NULL (2 values only)
-COALESCE() → First non-NULL value (multiple values)
-NULLIF() → If equal → NULL, else first value
-CAST() → Convert data type
-CONVERT() → Convert + format (dates)
-GETDATE() → Current date & time
-DATEADD() → Add/Subtract dates
-DATEDIFF() → Difference between two dates
-CASE → SQL's IF...ELSE
-STRING_AGG() → Combine rows into one string
-STUFF() → Remove/replace characters; older row concatenation workaround	
+* ISNULL() → Replace NULL (2 values only)
+* COALESCE() → First non-NULL value (multiple values)
+* NULLIF() → If equal → NULL, else first value
+* CAST() → Convert data type
+* CONVERT() → Convert + format (dates)
+* GETDATE() → Current date & time
+* DATEADD() → Add/Subtract dates
+* DATEDIFF() → Difference between two dates
+* CASE → SQL's IF...ELSE
+* STRING_AGG() → Combine rows into one string
+* STUFF() → Remove/replace characters; older row concatenation workaround	
